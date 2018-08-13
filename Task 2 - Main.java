@@ -1,7 +1,9 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Число-палиндром с обеих сторон (справа налево и слева направо)
+ * читается одинаково. Самое большое число-палиндром, полученное
+ * умножением двух двузначных чисел – 9009 = 91 × 99.
+ * Найдите самый большой палиндром, полученный умножением двух
+ * трехзначных чисел. (4 часа)
  */
 package level2task2;
 
